@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [1140-stone-game-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1563-stone-game-v](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1563-stone-game-v) |
 | [1901-find-a-peak-element-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1901-find-a-peak-element-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1386-cinema-seat-allocation](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -85,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1901-find-a-peak-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1386-cinema-seat-allocation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
