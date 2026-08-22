@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [4024-nearest-available-drone](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/4024-nearest-available-drone) |
 ## Math
 |  |
 | ------- |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Enumeration
+|  |
+| ------- |
+| [4024-nearest-available-drone](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/4024-nearest-available-drone) |
 <!---LeetCode Topics End-->
