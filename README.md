@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1563-stone-game-v](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1901-find-a-peak-element-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -29,25 +31,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1872-stone-game-viii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
 | ------- |
