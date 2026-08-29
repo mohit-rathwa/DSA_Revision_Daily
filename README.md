@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2742-painting-the-walls](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2742-painting-the-walls) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -160,10 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0042-trapping-rain-water) |
+| [2104-sum-of-subarray-ranges](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0042-trapping-rain-water) |
+| [2104-sum-of-subarray-ranges](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2104-sum-of-subarray-ranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
