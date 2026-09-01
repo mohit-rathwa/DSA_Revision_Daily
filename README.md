@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0042-trapping-rain-water) |
 | [0407-trapping-rain-water-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0407-trapping-rain-water-ii) |
+| [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
 | [1140-stone-game-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
 | [1386-cinema-seat-allocation](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
 | [1386-cinema-seat-allocation](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1927-sum-game) |
 ## Bit Manipulation
