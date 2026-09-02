@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1140-stone-game-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1872-stone-game-viii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2685-count-the-number-of-complete-components](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -187,4 +189,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0355-design-twitter) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
