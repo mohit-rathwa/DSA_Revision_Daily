@@ -147,11 +147,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2685-count-the-number-of-complete-components](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0101-symmetric-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0407-trapping-rain-water-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -192,10 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 ## DP on Trees
 |  |
