@@ -149,12 +149,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0662-maximum-width-of-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0101-symmetric-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0407-trapping-rain-water-ii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -196,11 +198,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0662-maximum-width-of-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0662-maximum-width-of-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0662-maximum-width-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
