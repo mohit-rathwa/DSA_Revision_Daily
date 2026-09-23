@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
+| [1048-longest-string-chain](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0368-largest-divisible-subset) |
+| [1048-longest-string-chain](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1872-stone-game-viii) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0355-design-twitter) |
 | [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1048-longest-string-chain](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1048-longest-string-chain) |
 | [1386-cinema-seat-allocation](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0368-largest-divisible-subset) |
 | [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
+| [1048-longest-string-chain](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1048-longest-string-chain) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0115-distinct-subsequences) |
+| [1048-longest-string-chain](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1048-longest-string-chain) |
 | [1927-sum-game](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -185,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0042-trapping-rain-water) |
+| [1048-longest-string-chain](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1048-longest-string-chain) |
 ## Stack
 |  |
 | ------- |
