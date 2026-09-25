@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0407-trapping-rain-water-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
 | [1048-longest-string-chain](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1140-stone-game-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0368-largest-divisible-subset) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1048-longest-string-chain](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1563-stone-game-v) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
 | [1386-cinema-seat-allocation](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1927-sum-game) |
