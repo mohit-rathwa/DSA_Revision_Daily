@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0368-largest-divisible-subset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1048-longest-string-chain](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1048-longest-string-chain) |
