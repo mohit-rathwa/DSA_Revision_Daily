@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0132-palindrome-partitioning-ii) |
 | [0678-valid-parenthesis-string](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1048-longest-string-chain) |
 | [1106-parsing-a-boolean-expression](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1106-parsing-a-boolean-expression) |
 | [1927-sum-game](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1927-sum-game) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1927-sum-game) |
 ## Bit Manipulation
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1106-parsing-a-boolean-expression](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1106-parsing-a-boolean-expression) |
 | [2104-sum-of-subarray-ranges](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -274,4 +277,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
