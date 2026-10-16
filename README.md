@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0875-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1140-stone-game-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1872-stone-game-viii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1872-stone-game-viii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0930-binary-subarrays-with-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [1048-longest-string-chain](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1048-longest-string-chain) |
 | [1386-cinema-seat-allocation](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
