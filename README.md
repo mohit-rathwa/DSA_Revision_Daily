@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0002-add-two-numbers) |
 | [0368-largest-divisible-subset](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0368-largest-divisible-subset) |
 | [1140-stone-game-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1563-stone-game-v) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0355-design-twitter](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0355-design-twitter) |
 ## Design
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0044-wildcard-matching) |
 | [1106-parsing-a-boolean-expression](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1106-parsing-a-boolean-expression) |
 ## Longest Increasing Subsequence
