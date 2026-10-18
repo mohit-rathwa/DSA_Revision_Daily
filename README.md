@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0023-merge-k-sorted-lists) |
 ## Matrix
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0407-trapping-rain-water-ii) |
 ## Linked List
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0355-design-twitter) |
 ## Design
 |  |
@@ -324,4 +327,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0229-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
