@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0152-maximum-product-subarray) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0678-valid-parenthesis-string](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0907-sum-of-subarray-minimums) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0907-sum-of-subarray-minimums](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2104-sum-of-subarray-ranges) |
 ## Heap (Priority Queue)
@@ -373,5 +376,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
