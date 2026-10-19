@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0229-majority-element-ii) |
 | [0355-design-twitter](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0424-longest-repeating-character-replacement) |
@@ -293,10 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0025-reverse-nodes-in-k-group) |
+| [0146-lru-cache](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0355-design-twitter) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0355-design-twitter) |
 ## Tree
 |  |
@@ -352,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0215-kth-largest-element-in-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
