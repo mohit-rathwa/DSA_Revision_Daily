@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0229-majority-element-ii) |
 | [0355-design-twitter](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -302,11 +303,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0460-lfu-cache) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0460-lfu-cache) |
 ## Tree
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0460-lfu-cache) |
 ## Queue
 |  |
 | ------- |
