@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0735-asteroid-collision) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0907-sum-of-subarray-minimums](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0907-sum-of-subarray-minimums) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0368-largest-divisible-subset) |
+| [0435-non-overlapping-intervals](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0435-non-overlapping-intervals) |
 | [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
 | [1048-longest-string-chain](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
