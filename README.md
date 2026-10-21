@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1048-longest-string-chain) |
 | [1386-cinema-seat-allocation](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0435-non-overlapping-intervals) |
 | [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -347,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
