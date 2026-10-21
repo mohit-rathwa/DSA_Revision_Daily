@@ -1,29 +1,55 @@
 class Solution {
 public:
-    TreeNode * first = nullptr , *second = nullptr , *prev = nullptr;
-
     void recoverTree(TreeNode* root) {
-        
-        inorder(root);
+        TreeNode * first = nullptr ,*second = nullptr ,*prev = nullptr;
+        TreeNode * curr = root;
 
-        swap(first->val , second->val);
-    }
-    void inorder(TreeNode * node){
-        if(node == nullptr) return;
+        while(curr){
 
-        inorder(node->left);
+            if(!curr->left){
 
-        if(prev!=nullptr && prev->val >= node->val){
-            if(first==nullptr){
-                first = prev;
-                second = node;
+                if(prev && prev->val >= curr->val){
+                    if(!first){
+                        first = prev;
+                        second = curr;
+                    }
+                    else{
+                        second = curr;
+                    }
+                }
+                prev = curr;
+                curr = curr->right;
             }
             else{
-                second = node;
+                    TreeNode * pred = curr->left;
+
+                    while(pred->right!=nullptr && pred->right!=curr){
+                        pred = pred->right;
+                    }
+
+                    if(pred->right == nullptr){
+                        pred->right = curr;
+                        curr= curr->left;
+                    }
+                    else{
+
+                        pred->right = nullptr;
+                        if(prev && prev->val>=curr->val){
+                            if(!first){
+                                first = prev;
+                                second = curr;
+                            }
+                            else{
+                                second = curr;
+                            }
+                            prev = curr;
+                        }
+                        prev = curr;
+                        curr=curr->right;
+                        
+                    }
             }
         }
-        prev = node;
-
-        inorder(node->right);
+        swap(first->val , second->val);
     }
 };
