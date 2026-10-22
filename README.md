@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -431,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0099-recover-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
