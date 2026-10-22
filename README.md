@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0132-palindrome-partitioning-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0424-longest-repeating-character-replacement) |
@@ -436,4 +438,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
