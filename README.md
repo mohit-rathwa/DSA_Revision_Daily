@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0051-n-queens) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0128-longest-consecutive-sequence) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0407-trapping-rain-water-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1901-find-a-peak-element-ii) |
 ## Greedy
@@ -438,11 +441,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
