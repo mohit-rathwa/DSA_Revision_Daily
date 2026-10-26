@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0875-koko-eating-bananas) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0930-binary-subarrays-with-sum) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0435-non-overlapping-intervals) |
+| [0721-accounts-merge](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1048-longest-string-chain) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0721-accounts-merge) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1048-longest-string-chain) |
 | [1106-parsing-a-boolean-expression](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1106-parsing-a-boolean-expression) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -281,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0407-trapping-rain-water-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -290,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0128-longest-consecutive-sequence) |
+| [0721-accounts-merge](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
