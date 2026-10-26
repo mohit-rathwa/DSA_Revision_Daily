@@ -1,37 +1,51 @@
 class Solution {
 public:
-    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        int n = numCourses;
-        vector<int> inorder(n,0);
-        vector<vector<int>> adj(n);
-        queue<int> que;
-        vector<int> ans;
+    int dfs(int nd ,vector<int>&vis,vector<int>&pathvis ,vector<vector<int>>&adj,stack<int>&st){
+        vis[nd] = 1;
+        pathvis[nd] = 1;
 
-        for(auto it : prerequisites){
-            adj[it[1]].push_back(it[0]);
-            inorder[it[0]]++;
-        }
-
-        for(int i=0;i<n;i++){
-            if(inorder[i]==0){
-                que.push(i);
+        for(auto it : adj[nd]){
+            if(!vis[it]){
+                if(dfs(it ,vis , pathvis , adj, st)){
+                    return true;
+                }
+            }
+            else if(pathvis[it]){
+                return true;
             }
         }
 
-        while(!que.empty()){
-            int node = que.front();
-            que.pop();
-            ans.push_back(node);
+        pathvis[nd] = 0;
+        st.push(nd);
+        return false;
+    }
+    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+        int n = numCourses;
 
-            for(auto neigh : adj[node]){
-                inorder[neigh]--;
-                if(inorder[neigh]==0){
-                    que.push(neigh);
+        vector<int> vis(n,0);
+        vector<int> pathvis(n,0);
+        vector<vector<int>> adj(n);
+        stack<int> st;
+
+        for(auto it : prerequisites){
+            adj[it[1]].push_back(it[0]);
+        }
+    
+
+        for(int i=0;i<n;i++){
+            if(!vis[i]){
+                if(dfs(i ,vis , pathvis , adj , st)){
+                    return {};
                 }
-            }            
+            }
         }
 
-        if(ans.size() == n) return ans;
-        return {};
+        vector<int> ans;
+        while(!st.empty()){
+            ans.push_back(st.top());
+            st.pop();
+        }
+
+        return ans;
     }
 };
