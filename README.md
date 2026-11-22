@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0229-majority-element-ii) |
 | [0355-design-twitter](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0355-design-twitter) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0141-linked-list-cycle) |
 | [1048-longest-string-chain](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1048-longest-string-chain) |
 ## Stack
 |  |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0025-reverse-nodes-in-k-group) |
+| [0141-linked-list-cycle](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0460-lfu-cache) |
@@ -497,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0210-course-schedule-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
