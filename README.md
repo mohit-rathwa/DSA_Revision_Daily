@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1048-longest-string-chain) |
 | [1106-parsing-a-boolean-expression](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1106-parsing-a-boolean-expression) |
 | [1927-sum-game](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/mohit-rathwa/DSA_Revision_Daily/tree/master/3331-find-subtree-sizes-after-changes) |
